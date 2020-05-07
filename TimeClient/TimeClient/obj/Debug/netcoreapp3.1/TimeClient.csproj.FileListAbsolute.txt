@@ -1,0 +1,10 @@
+C:\Users\oddot\source\repos\TimeClient\TimeClient\bin\Debug\netcoreapp3.1\TimeClient.exe
+C:\Users\oddot\source\repos\TimeClient\TimeClient\bin\Debug\netcoreapp3.1\TimeClient.deps.json
+C:\Users\oddot\source\repos\TimeClient\TimeClient\bin\Debug\netcoreapp3.1\TimeClient.runtimeconfig.json
+C:\Users\oddot\source\repos\TimeClient\TimeClient\bin\Debug\netcoreapp3.1\TimeClient.runtimeconfig.dev.json
+C:\Users\oddot\source\repos\TimeClient\TimeClient\bin\Debug\netcoreapp3.1\TimeClient.dll
+C:\Users\oddot\source\repos\TimeClient\TimeClient\bin\Debug\netcoreapp3.1\TimeClient.pdb
+C:\Users\oddot\source\repos\TimeClient\TimeClient\obj\Debug\netcoreapp3.1\TimeClient.AssemblyInfoInputs.cache
+C:\Users\oddot\source\repos\TimeClient\TimeClient\obj\Debug\netcoreapp3.1\TimeClient.AssemblyInfo.cs
+C:\Users\oddot\source\repos\TimeClient\TimeClient\obj\Debug\netcoreapp3.1\TimeClient.dll
+C:\Users\oddot\source\repos\TimeClient\TimeClient\obj\Debug\netcoreapp3.1\TimeClient.pdb

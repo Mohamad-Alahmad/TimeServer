@@ -1,0 +1,11 @@
+C:\Users\oddot\source\repos\TimeServer\TimeServer\obj\Debug\netcoreapp3.1\TimeServer.csprojAssemblyReference.cache
+C:\Users\oddot\source\repos\TimeServer\TimeServer\obj\Debug\netcoreapp3.1\TimeServer.AssemblyInfoInputs.cache
+C:\Users\oddot\source\repos\TimeServer\TimeServer\obj\Debug\netcoreapp3.1\TimeServer.AssemblyInfo.cs
+C:\Users\oddot\source\repos\TimeServer\TimeServer\bin\Debug\netcoreapp3.1\TimeServer.exe
+C:\Users\oddot\source\repos\TimeServer\TimeServer\bin\Debug\netcoreapp3.1\TimeServer.deps.json
+C:\Users\oddot\source\repos\TimeServer\TimeServer\bin\Debug\netcoreapp3.1\TimeServer.runtimeconfig.json
+C:\Users\oddot\source\repos\TimeServer\TimeServer\bin\Debug\netcoreapp3.1\TimeServer.runtimeconfig.dev.json
+C:\Users\oddot\source\repos\TimeServer\TimeServer\bin\Debug\netcoreapp3.1\TimeServer.dll
+C:\Users\oddot\source\repos\TimeServer\TimeServer\bin\Debug\netcoreapp3.1\TimeServer.pdb
+C:\Users\oddot\source\repos\TimeServer\TimeServer\obj\Debug\netcoreapp3.1\TimeServer.dll
+C:\Users\oddot\source\repos\TimeServer\TimeServer\obj\Debug\netcoreapp3.1\TimeServer.pdb
